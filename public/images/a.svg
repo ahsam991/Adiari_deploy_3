@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 450 400">
+  <!-- Leaves -->
+  <path d="M45 145c0-60 40-90 90-90 40 0 55 25 55 60 0 30-15 55-35 75-15-20-25-40-25-65 0-20 5-35 15-45-30 5-50 25-50 55 0 25 15 45 35 60-30-5-60-25-85-50z" fill="#52B54B"/>
+  <path d="M155 200c0-20 15-35 30-45 10-5 20-10 30-10 20 0 30 10 30 25 0 15-10 30-25 40-10-10-15-20-15-30 0-8 3-12 8-15-12 2-20 10-20 22 0 10 6 18 15 24-12-2-30-5-53-11z" fill="#52B54B"/>
+  
+  <!-- Text ADI ARI -->
+  <text x="170" y="310" font-family="'Arial Black', sans-serif" font-size="90" font-weight="900" fill="#2C3E2D">ADI ARI</text>
+  
+  <!-- Subtitle -->
+  <text x="65" y="345" font-family="Arial, sans-serif" font-size="18" font-weight="400" font-style="italic" fill="#2C3E2D" letter-spacing="2">FRESH VEGETABLES AND HALAL FOOD</text>
+</svg>
